@@ -1,0 +1,152 @@
+*{
+	font-family: 'raleway', sans-serif;
+}
+body{
+	margin: 0;
+}
+/**NAVIGATION**/
+.navigation{
+	background-color:#fe7e00;
+	height: 100px;
+}
+.navigation .logo {
+	
+	font-weight: normal;
+	
+}
+.navigation div{
+	display: inline-block;
+	padding-left: 60px;
+	
+}
+
+.navigation img{
+	height: 40px;
+	margin-left: 40px;
+	
+
+}
+
+
+.navigation ul{
+	float: right;
+	font-family: 'raleway' sans-serif;
+	font-size: 20px;
+	padding: 15px 15px 15px 15px;
+
+
+}
+.navigation li{
+	display: inline-block;
+}
+.navigation li a{
+	color: #ffd28d;
+	text-decoration: none;
+	padding: 10px 10px 10px 10px;
+	font-size: 20px;
+
+}
+.navigation  h3 {
+	font-size: 40px;
+	color: #ffe9aa;
+	display:inline-block;
+	
+}
+
+.input input {
+	
+	border:none;
+	background-color:#f1eff0;
+	height:40px;
+	width:150px;
+	padding-left:20px;
+	margin-top:10px;
+	cursor:pointer;
+	text-align:center;
+
+
+}
+.input{
+	float:right;
+	padding-right:30px;
+
+}
+ .input img{
+	height:27px;
+	width:20px;
+	background-color:#f1eff0;
+	padding:5px 0 10px;
+	margin-top:10px;
+	position:absolute;
+	
+}
+
+.orange img{
+	
+	width: 40%;
+	margin-top: 150px;
+	display: inline-block;
+
+} 
+
+#property  {
+	display: inline-block;
+	float: right;
+	height: 200px;
+	width: 50%;
+	position: absolute;
+	top: 40%;
+	left: 45%;
+	margin-right: 30px;
+}
+#property  p .button{
+	display: inline-block;
+
+}
+ 
+
+#property p{
+	font-size: 30px;
+	line-height: 1.5em;
+	color: #ff9800;
+}
+#property span.bold{
+	font-weight: bold;
+	color: #ff9800;
+}
+#property span.web{
+	color: #7accc8;
+	font-weight: bold;
+}
+#property span.app{
+	color: #7accc8;
+	font-weight: bold;
+
+}
+button.quote{
+	 background-color: #fe7e01;
+	 border: none;
+	 padding: 20px 40px 20px 40px;
+	 font-size: 14px;
+	 text-decoration: none;
+	 cursor: pointer;
+}
+a button.quote{
+	color: white;
+}
+button.case{
+	background: #7accc8;
+	border: none;
+	padding: 20px 40px 20px 40px;
+	font-size: 14px;
+	text-decoration: none;
+	cursor: pointer;
+	margin-right: 10px;
+}
+a button.case{
+	color: white;
+}
+
+footer {
+	background-color:#7accc8;
+	height:90px;
